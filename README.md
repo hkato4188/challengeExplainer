@@ -23,13 +23,16 @@
             
             1. The modulo operator returns the last digit of with % 10 because decimal is base 10
 
-            - Ex: 156 % 10 = 6
+            - Ex: 
+                156 % 10 = 6
         
-            - Ex: 6 % 10 = 6 Think of the modulo returning the remainder
+            - Ex: 
+                6 % 10 = 6 Think of the modulo returning the remainder
 
             2. When you divide by 10 the / operator removes the last digit
         
-            - Ex: 
+            - Ex:
+             
             1. 15645 / 10 = 1564
 
             2. 1564 / 10 = 156
